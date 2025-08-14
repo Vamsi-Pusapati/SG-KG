@@ -117,9 +117,6 @@ This component builds a comprehensive knowledge graph that integrates power grid
 - **Link Prediction System**: Predictive analytics for threat assessment
 - **Semantic Analysis Tools**: Reasoning capabilities over the KG
 
-## Contributing
-
-This is a research project. For questions or collaboration inquiries, please contact the research team.
 
 ## License
 
